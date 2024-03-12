@@ -4,7 +4,7 @@ html, body {
 }
 
 body{
-    background-color: #ffffff;
+    background-color: rgb(39, 39, 39);
     height: 100vh;
     width: 100vw;
     overflow: hidden;
@@ -52,7 +52,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffffff;
+    background-color: rgb(39, 39, 39);
 }
 
 .buttonMenuTransmissao{
